@@ -5,7 +5,7 @@
 <div>
 <div><p1> 
 
-3 exercicios trabalhando posições interativas de dos itens na tela e propagações como com modais. 
+Primeiros momentos  utilizando  DOM  no frontend para tornar os elementos interativos. Colocando script diretamente no HTML sem organização REST ainda.
 
 ##                                                                      Tecnologias Utilizadas:
 linguagem :  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br><br>
